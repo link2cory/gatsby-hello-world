@@ -31,6 +31,7 @@ export default ({ children }) => {
             margin-bottom: ${rhythm(2)};
             display: inline-block;
             font-style: normal;
+            color: red;
           `}
         >
           {data.site.siteMetadata.title}
